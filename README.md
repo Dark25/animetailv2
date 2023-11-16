@@ -1,4 +1,4 @@
-```markdown
+
 # AnimeTail
 
 AnimeTail es un fork no oficial del lector de manga gratuito y de código abierto Tachiyomi que amplía sus capacidades para incluir funciones de anime. Diseñado para Android 6.0 y versiones superiores.
@@ -29,4 +29,4 @@ Si deseas contribuir a AnimeTail, sigue nuestras pautas de contribución.
 ## Licencia
 
 Este proyecto está bajo la Licencia MIT.
-```
+
